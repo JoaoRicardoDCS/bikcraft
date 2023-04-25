@@ -9,9 +9,12 @@
   gap: 40px;
   align-items: center;
 }
+<<<<<<< HEAD
 .seguros .seguros {
   padding-top: 0px;
 }
+=======
+>>>>>>> 0a8d5f1a2f74c9f41f080d177a81e8ec5e85fceb
 .seguros h2 {
   grid-column: 1/-1;
 }
@@ -20,7 +23,10 @@
   padding: 32px 32px 32px 60px;
   display: grid;
   grid-template-columns: 1fr auto;
+<<<<<<< HEAD
   border-radius: 4px;
+=======
+>>>>>>> 0a8d5f1a2f74c9f41f080d177a81e8ec5e85fceb
 }
 .seguros-item h3 {
   margin-bottom: 40px;
